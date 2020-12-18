@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlerRepresa", "CrawlerRepresa\CrawlerRepresa.csproj", "{B3DF4751-8484-4312-85AA-9F009135F481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DF4751-8484-4312-85AA-9F009135F481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DF4751-8484-4312-85AA-9F009135F481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DF4751-8484-4312-85AA-9F009135F481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DF4751-8484-4312-85AA-9F009135F481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {809015CC-BA52-42CA-8039-C48BE4417E9D}
+	EndGlobalSection
+EndGlobal
